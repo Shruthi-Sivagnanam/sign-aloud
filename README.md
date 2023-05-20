@@ -7,7 +7,7 @@ communication between signers and non-signers. We use a custom CNN
 (Convolution Neural Network) for recognizing the sign from a live video frame. 
 This system can help in public speaking and students with speech impairment.
 
-## Output ScreenShot
+## Output Screenshots
 <div style="margin-right: 30px;" align="center">
 <img src="https://github.com/Shruthi-Sivagnanam/sign-aloud/assets/82823305/f6e92976-997d-474b-b59c-a3866b40edf8" float="left" width="200px" height="500px" />
   &nbsp; &nbsp;
